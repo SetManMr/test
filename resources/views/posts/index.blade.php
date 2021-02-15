@@ -50,7 +50,7 @@
 
     </section>
     <section>
-        <div class="container-xxl">
+        <div class="container-xxl" align="center">
             <h2>Our clients</h2>
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
@@ -58,9 +58,9 @@
                     <div class="row justify-content-between">
                         <div class="col">
                             <div class="card w-100">
-                                <img src="img/images.jpg" class="card-img-top" alt="client1">
+                                <img src="img/italian-restaurant1.png" class="card-img-top" alt="client1">
                                 <div class="card-body">
-                                  <h5 class="card-title">Italian restouran</h5>
+                                  <h5 class="card-title">Italian restaurant</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                   <a href="#" class="btn btn-primary">Go somewhere</a>
                                 </div>
@@ -68,9 +68,9 @@
                         </div>
                         <div class="col">
                             <div class="card w-100">
-                                <img src="img/images.jpg" class="card-img-top" alt="client1">
+                                <img src="img/china.png" class="card-img-top" alt="client1">
                                 <div class="card-body">
-                                  <h5 class="card-title">China restoran</h5>
+                                  <h5 class="card-title">China restaurant</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                   <a href="#" class="btn btn-primary">Go somewhere</a>
                                 </div>
@@ -78,9 +78,9 @@
                         </div>
                         <div class="col">
                             <div class="card w-100">
-                                <img src="img/images.jpg" class="card-img-top" alt="client1">
+                                <img src="img/sushi.png" class="card-img-top" alt="client1">
                                 <div class="card-body">
-                                  <h5 class="card-title">Cofee</h5>
+                                  <h5 class="card-title">Sushi Bar</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                   <a href="#" class="btn btn-primary">Go somewhere</a>
                                 </div>
@@ -88,9 +88,9 @@
                         </div>
                         <div class="col">
                             <div class="card w-100">
-                                <img src="img/images.jpg" class="card-img-top" alt="client1">
+                                <img src="img/fastfood1.png" class="card-img-top" alt="client1">
                                 <div class="card-body">
-                                  <h5 class="card-title">fast food</h5>
+                                  <h5 class="card-title">Fast food</h5>
                                   <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
                                   <a href="#" class="btn btn-primary">Go somewhere</a>
                                 </div>
