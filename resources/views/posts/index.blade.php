@@ -207,23 +207,35 @@
 
     </section>
     <section>
-        {{-- <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
+         <div class="d-md-flex flex-md-equal w-100 my-md-3 ps-md-3">
 
-              <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div> --}}
+             {{-- <div class="bg-light shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div> --}}
             {{-- </div> --}}
+
+
             <div class="bg-light me-md-3 pt-3 px-3 pt-md-5 px-md-5 text-center overflow-hidden">
               <div class="my-3 p-3">
                 <h2 class="display-5">Easy settings</h2>
                 <p class="lead">And an even wittier subheading.</p>
               </div>
               {{-- <div class="bg-dark shadow-sm mx-auto" style="width: 80%; height: 300px; border-radius: 21px 21px 0 0;"></div> --}}
-            </div>
+            </div  >
 
         <div class="container-xxl">
+                <div class="row">
 
-            <div class="img-fluid">
-                <img src="img/settings.png" class="img-fluid" alt="settings">
-            </div>
+                    <div class="col-4">
+
+      <p class="lead fw-normal">And an even wittier subheading to boot. Jumpstart your marketing efforts with this example based on Apple’s marketing pages.</p>
+
+                        <a class="btn btn-outline-secondary" href="#">Get start</a>
+                    </div>
+                    <div class="col-8">
+                        <img class="w-100" src="img/settings.png" class="img-fluid" alt="settings">
+                    </div>
+                </div>
+               </div>
+
         </div>
     </section>
     <section>
